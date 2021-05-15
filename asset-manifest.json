@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/css/main.67020013.chunk.css",
+    "main.js": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/main.397f562c.chunk.js",
+    "main.js.map": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/main.397f562c.chunk.js.map",
+    "runtime-main.js": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/runtime-main.7c3de008.js",
+    "runtime-main.js.map": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/runtime-main.7c3de008.js.map",
+    "static/js/2.1e0a16b6.chunk.js": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/2.1e0a16b6.chunk.js",
+    "static/js/2.1e0a16b6.chunk.js.map": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/2.1e0a16b6.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/index.html",
+    "static/css/main.67020013.chunk.css.map": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/css/main.67020013.chunk.css.map",
+    "static/js/2.1e0a16b6.chunk.js.LICENSE.txt": "/SatyamSuraj/react-app-demo/tree/main/monsters-rolodex/static/js/2.1e0a16b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3de008.js",
+    "static/js/2.1e0a16b6.chunk.js",
+    "static/css/main.67020013.chunk.css",
+    "static/js/main.397f562c.chunk.js"
+  ]
+}
